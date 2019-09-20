@@ -6,7 +6,7 @@ public enum EnumTest {
     /**
      * NOT
      */
-    NOT("haha"),
+    NOT,
     MILD,
     MEDIUM,
     HOT,
