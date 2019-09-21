@@ -1,3 +1,5 @@
+package com.fanc;
+
 import java.util.Arrays;
 import java.util.Random;
 
