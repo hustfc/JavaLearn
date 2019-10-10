@@ -27,7 +27,7 @@ public class AddingGroups {
         list2.set(1, 99);
         System.out.println(list2);
         // 调整尺寸，有问题
-        list2.add(21);
+        //list2.add(21);
         System.out.println(list2);
     }
 }
