@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/PriorityQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/IterableClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/AddingGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/AddingGroups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fanc/AddingGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/AddingGroups.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueueTest">
+  <component name="RunManager" selected="Application.IterableClass">
     <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.AddingGroups" />
       <module name="JavaLearn" />
@@ -79,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HorrorShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.HorrorShow" />
+    <configuration name="IterableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.IterableClass" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterableClass" />
         <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.AddingGroups" />
-        <item itemvalue="Application.HorrorShow" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +154,7 @@
       <workItem from="1570544011558" duration="86000" />
       <workItem from="1570544121880" duration="99000" />
       <workItem from="1570544268306" duration="1411000" />
-      <workItem from="1570709864867" duration="5016000" />
+      <workItem from="1570709864867" duration="7445000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
