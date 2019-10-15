@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/IterableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/ExceptionMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +26,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="210" />
-    <option name="y" value="151" />
-    <option name="width" value="1260" />
-    <option name="height" value="771" />
-  </component>
   <component name="ProjectId" id="1RvOmTxwQpUox5NjjhUd1jwZyNn" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +42,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,9 +56,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IterableClass">
-    <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.AddingGroups" />
+  <component name="RunManager" selected="Application.ExceptionMethods">
+    <configuration name="ExceptionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.ExceptionMethods" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionMethods" />
         <item itemvalue="Application.IterableClass" />
         <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.AddingGroups" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +149,11 @@
       <workItem from="1570544011558" duration="86000" />
       <workItem from="1570544121880" duration="99000" />
       <workItem from="1570544268306" duration="1411000" />
-      <workItem from="1570709864867" duration="7744000" />
+      <workItem from="1570709864867" duration="7876000" />
+      <workItem from="1571017208504" duration="15000" />
+      <workItem from="1571149920908" duration="252000" />
+      <workItem from="1571150247707" duration="39000" />
+      <workItem from="1571150298906" duration="541000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
