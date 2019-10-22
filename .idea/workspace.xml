@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/ExceptionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/NerverCaught.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/UsingStringBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionMethods">
+  <component name="RunManager" selected="Application.StringTest">
     <configuration name="ExceptionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.ExceptionMethods" />
       <module name="JavaLearn" />
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.ListTest" />
+    <configuration name="NerverCaught" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.NerverCaught" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.PriorityQueueTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.StringTest" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.SetTest" />
+    <configuration name="UsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.UsingStringBuilder" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.UsingStringBuilder" />
+        <item itemvalue="Application.NerverCaught" />
         <item itemvalue="Application.ExceptionMethods" />
         <item itemvalue="Application.IterableClass" />
-        <item itemvalue="Application.PriorityQueueTest" />
-        <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.ListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +156,8 @@
       <workItem from="1571149920908" duration="252000" />
       <workItem from="1571150247707" duration="39000" />
       <workItem from="1571150298906" duration="541000" />
+      <workItem from="1571151000374" duration="3000" />
+      <workItem from="1571665887373" duration="3760000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
