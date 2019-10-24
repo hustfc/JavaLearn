@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SimpleFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/StringReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/ToyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,6 +44,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -57,9 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Turtle">
-    <configuration name="NerverCaught" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.NerverCaught" />
+  <component name="RunManager" selected="Application.StringReflection">
+    <configuration name="StringReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.StringReflection" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.SimpleFormat" />
+    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.SweetShop" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.StringTest" />
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.ToyTest" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringReflection" />
+        <item itemvalue="Application.ToyTest" />
+        <item itemvalue="Application.SweetShop" />
         <item itemvalue="Application.Turtle" />
         <item itemvalue="Application.UsingStringBuilder" />
-        <item itemvalue="Application.SimpleFormat" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.NerverCaught" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,9 @@
       <workItem from="1571150247707" duration="39000" />
       <workItem from="1571150298906" duration="541000" />
       <workItem from="1571151000374" duration="3000" />
-      <workItem from="1571665887373" duration="5682000" />
+      <workItem from="1571665887373" duration="5908000" />
+      <workItem from="1571831368035" duration="4064000" />
+      <workItem from="1571903302868" duration="2525000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
@@ -187,21 +193,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10.8" />
     <option name="LAST_COMMIT_MESSAGE" value="10.8" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
