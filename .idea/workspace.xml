@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/StringReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SweetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/GetMethodTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaLearn" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,9 +35,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,10 +48,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,7 +65,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringReflection">
+  <component name="RunManager" selected="Application.GetMethodTest">
+    <configuration name="GetMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.GetMethodTest" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.StringReflection" />
       <module name="JavaLearn" />
@@ -114,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.UsingStringBuilder" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fanc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetMethodTest" />
         <item itemvalue="Application.StringReflection" />
         <item itemvalue="Application.ToyTest" />
         <item itemvalue="Application.SweetShop" />
         <item itemvalue="Application.Turtle" />
-        <item itemvalue="Application.UsingStringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +167,10 @@
       <workItem from="1571665887373" duration="5908000" />
       <workItem from="1571831368035" duration="4064000" />
       <workItem from="1571903302868" duration="2525000" />
+      <workItem from="1571923032913" duration="1779000" />
+      <workItem from="1572268647551" duration="100000" />
+      <workItem from="1572268751093" duration="251000" />
+      <workItem from="1572269046370" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
