@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/ThreeTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/TupleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/Compile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/CovariantArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/GenericVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/MyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/Tuple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/GenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/GenericMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/GenericMethods.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericMethods">
-    <configuration name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.GenericMethods" />
+  <component name="RunManager" selected="Application.MyCollection">
+    <configuration name="Compile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.Compile" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.GetMethodTest" />
+    <configuration name="CovariantArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.CovariantArrays" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Holder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.Holder" />
+    <configuration name="GenericVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.GenericVarargs" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.ProxyTest" />
+    <configuration name="MyCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.MyCollection" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TupleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.TupleTest" />
+    <configuration name="Tuple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.Tuple" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericMethods" />
-        <item itemvalue="Application.TupleTest" />
-        <item itemvalue="Application.Holder" />
-        <item itemvalue="Application.ProxyTest" />
-        <item itemvalue="Application.GetMethodTest" />
+        <item itemvalue="Application.MyCollection" />
+        <item itemvalue="Application.Compile" />
+        <item itemvalue="Application.CovariantArrays" />
+        <item itemvalue="Application.Tuple" />
+        <item itemvalue="Application.GenericVarargs" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +176,8 @@
       <workItem from="1572268647551" duration="100000" />
       <workItem from="1572268751093" duration="251000" />
       <workItem from="1572269046370" duration="4567000" />
-      <workItem from="1572338969003" duration="3344000" />
+      <workItem from="1572338969003" duration="7262000" />
+      <workItem from="1572424307984" duration="3678000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
