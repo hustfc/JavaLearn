@@ -21,6 +21,12 @@ public class MyCollection {
         // 不合法
         //fruits.add(new Apple());
 
+        List<? super Apple> apples = new LinkedList<>(Arrays.asList(new Apple(), new Jonathan()));
+        apples.add(new Apple());
+        apples.add(new Jonathan());
+        System.out.println(apples);
+
+
     }
 }
 

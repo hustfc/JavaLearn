@@ -11,8 +11,18 @@ class Fruit {
         return "Fruit";
     }
 }
-class Apple extends Fruit {}
-class Jonathan extends Apple {}
+class Apple extends Fruit {
+    @Override
+    public String toString() {
+        return "Apple";
+    }
+}
+class Jonathan extends Apple {
+    @Override
+    public String toString() {
+        return "Jonathan";
+    }
+}
 class Orange extends Fruit {}
 public class CovariantArrays {
     public static void main(String[] args) {
