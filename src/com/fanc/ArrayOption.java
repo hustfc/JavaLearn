@@ -17,4 +17,5 @@ public class ArrayOption {
     Berry[] berries2 = new Berry[]{new Berry(), new Berry()};
     int[] ints1 = new int[3];
     int[] ints2 = new int[]{1, 2, 3, 4};
+    Berry[] berries3 = {new Berry(), new Berry()};
 }
