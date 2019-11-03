@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="10.8">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/CompType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/CompareArrays.java" afterDir="false" />
+    <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="11.1">
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/FillingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/TypesForSets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fanc/FillingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/FillingArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/META-INF/JavaLearn.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/CompType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/CompType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/CovariantArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/CovariantArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Jonathan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Jonathan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/com/fanc/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fanc/CovariantArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/CovariantArrays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompType">
+  <component name="RunManager" selected="Application.MapData">
     <configuration name="CompType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.CompType" />
       <module name="JavaLearn" />
@@ -120,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutipleDemention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.MutipleDemention" />
+    <configuration name="FillingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.FillingLists" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.ReturnArray" />
+    <configuration name="MapData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.MapData" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapData" />
+        <item itemvalue="Application.FillingLists" />
         <item itemvalue="Application.CompType" />
         <item itemvalue="Application.CompareArrays" />
         <item itemvalue="Application.FillingArrays" />
-        <item itemvalue="Application.MutipleDemention" />
-        <item itemvalue="Application.ReturnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +200,8 @@
       <workItem from="1572424307984" duration="5745000" />
       <workItem from="1572520483540" duration="1305000" />
       <workItem from="1572521895840" duration="7311000" />
+      <workItem from="1572608585616" duration="6334000" />
+      <workItem from="1572768002571" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
@@ -205,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572523515311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11.1">
+      <created>1572608664910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572608664910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +245,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.8" />
+    <MESSAGE value="11.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.1" />
   </component>
 </project>
