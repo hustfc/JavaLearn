@@ -37,7 +37,24 @@ public class SlowMap<K, V> extends AbstractMap<K, V> {
 
     @Override
     public Set<Map.Entry<K, V>> entrySet() {
+        Set<Map.Entry<K, V>> set = new HashSet<>();
+        Iterator<K> ki = keys.iterator();
+        Iterator<V> vi = values.iterator();
+        while(ki.hasNext()) {
+            set.add(new MapEntry<>(ki.next(), vi.next()));
+        }
+        return set;
+    }
 
+    public static void main(String[] args) {
+        SlowMap<String, String> map = new SlowMap<>();
+        map.put("123", "agdfa");
+        map.put("456", "fda");
+        map.put("7979", "opip");
+        map.put("567", "uore");
+        System.out.println(map);
+        System.out.println(map.get("123"));
+        System.out.println(map.entrySet());
     }
 
 }

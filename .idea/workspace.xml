@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SlowMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SortedMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SortedSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SpringDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/MapEntry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fanc/TypesForSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/TypesForSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fanc/SlowMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/SlowMap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpringDetector">
+  <component name="RunManager" selected="Application.SlowMap">
     <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.LinkedHashMapDemo" />
       <module name="JavaLearn" />
@@ -97,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.MapData" />
+    <configuration name="SlowMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.SlowMap" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlowMap" />
         <item itemvalue="Application.SpringDetector" />
         <item itemvalue="Application.LinkedHashMapDemo" />
         <item itemvalue="Application.SortedSetDemo" />
         <item itemvalue="Application.TypesForSets" />
-        <item itemvalue="Application.MapData" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +191,7 @@
       <workItem from="1572521895840" duration="7311000" />
       <workItem from="1572608585616" duration="6334000" />
       <workItem from="1572768002571" duration="4489000" />
-      <workItem from="1572844814362" duration="4202000" />
+      <workItem from="1572844814362" duration="7840000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
