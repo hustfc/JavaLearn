@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/MapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/SimpleHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fanc/SlowMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fanc/SlowMap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +190,7 @@
       <workItem from="1572521895840" duration="7311000" />
       <workItem from="1572608585616" duration="6334000" />
       <workItem from="1572768002571" duration="4489000" />
-      <workItem from="1572844814362" duration="7840000" />
+      <workItem from="1572844814362" duration="10966000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
