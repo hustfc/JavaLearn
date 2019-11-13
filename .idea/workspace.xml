@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirList2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +64,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,11 +78,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DirList">
+  <component name="RunManager" selected="Application.DirList2">
     <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.DirList" />
       <module name="JavaLearn" />
       <option name="PROGRAM_PARAMETERS" value="c.." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.DirList2" />
+      <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fanc.*" />
@@ -120,19 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.SortedSetDemo" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fanc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.SpringDetector" />
       <module name="JavaLearn" />
@@ -150,16 +149,16 @@
       <item itemvalue="Application.DirList" />
       <item itemvalue="Application.LinkedHashMapDemo" />
       <item itemvalue="Application.SlowMap" />
-      <item itemvalue="Application.SortedSetDemo" />
       <item itemvalue="Application.SpringDetector" />
+      <item itemvalue="Application.DirList2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirList2" />
         <item itemvalue="Application.DirList" />
         <item itemvalue="Application.SlowMap" />
         <item itemvalue="Application.SpringDetector" />
         <item itemvalue="Application.LinkedHashMapDemo" />
-        <item itemvalue="Application.SortedSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +200,8 @@
       <workItem from="1572768002571" duration="4489000" />
       <workItem from="1572844814362" duration="10966000" />
       <workItem from="1573482293317" duration="1699000" />
+      <workItem from="1573647262661" duration="844000" />
+      <workItem from="1573649785740" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
