@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +79,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SlowMap">
+  <component name="RunManager" selected="Application.DirList">
+    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.DirList" />
+      <module name="JavaLearn" />
+      <option name="PROGRAM_PARAMETERS" value="c.." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.LinkedHashMapDemo" />
       <module name="JavaLearn" />
@@ -131,26 +146,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesForSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.TypesForSets" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fanc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.DirList" />
+      <item itemvalue="Application.LinkedHashMapDemo" />
+      <item itemvalue="Application.SlowMap" />
+      <item itemvalue="Application.SortedSetDemo" />
+      <item itemvalue="Application.SpringDetector" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirList" />
         <item itemvalue="Application.SlowMap" />
         <item itemvalue="Application.SpringDetector" />
         <item itemvalue="Application.LinkedHashMapDemo" />
         <item itemvalue="Application.SortedSetDemo" />
-        <item itemvalue="Application.TypesForSets" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +200,7 @@
       <workItem from="1572608585616" duration="6334000" />
       <workItem from="1572768002571" duration="4489000" />
       <workItem from="1572844814362" duration="10966000" />
+      <workItem from="1573482293317" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
