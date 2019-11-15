@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607fff63-bd25-4835-a479-a82ec5eec25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fanc/DirList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/BufferedInputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/BufferedInputFile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fanc/read.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +80,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DirList2">
+  <component name="RunManager" selected="Application.BufferedInputFile2">
+    <configuration name="BufferedInputFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.BufferedInputFile" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferedInputFile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanc.BufferedInputFile2" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.DirList" />
       <module name="JavaLearn" />
@@ -106,19 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.LinkedHashMapDemo" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fanc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SlowMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fanc.SlowMap" />
       <module name="JavaLearn" />
@@ -132,33 +147,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fanc.SpringDetector" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fanc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DirList" />
-      <item itemvalue="Application.LinkedHashMapDemo" />
       <item itemvalue="Application.SlowMap" />
-      <item itemvalue="Application.SpringDetector" />
       <item itemvalue="Application.DirList2" />
+      <item itemvalue="Application.BufferedInputFile" />
+      <item itemvalue="Application.BufferedInputFile2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedInputFile2" />
+        <item itemvalue="Application.BufferedInputFile" />
         <item itemvalue="Application.DirList2" />
         <item itemvalue="Application.DirList" />
         <item itemvalue="Application.SlowMap" />
-        <item itemvalue="Application.SpringDetector" />
-        <item itemvalue="Application.LinkedHashMapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +204,8 @@
       <workItem from="1573482293317" duration="1699000" />
       <workItem from="1573647262661" duration="844000" />
       <workItem from="1573649785740" duration="147000" />
+      <workItem from="1573650199968" duration="798000" />
+      <workItem from="1573787740463" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="10.8">
       <created>1570545512605</created>
